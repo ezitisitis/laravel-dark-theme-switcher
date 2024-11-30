@@ -9,12 +9,8 @@ This is where your description should go. Limit it to a paragraph or two. Consid
 
 ## Support us
 
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-dark-theme-switcher.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-dark-theme-switcher)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
+If you are using this package for commercial use, that would be highly appreciated to support through [GitHub Sponsor](https://github.com/sponsors/ezitisitis)
+program, as developing even small packages requires time and effort, while saving your precious time.
 
 ## Installation
 
@@ -71,8 +67,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Support Us
 
 ## Credits
 
