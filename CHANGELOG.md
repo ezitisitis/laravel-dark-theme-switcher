@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-dark-theme-switcher` will be documented in this file.
 
+## v1.0.3 - 2024-11-30
+
+Fixed:
+
+1. Stan pipeline by removing database directory
+
+**Full Changelog**: https://github.com/ezitisitis/laravel-dark-theme-switcher/compare/v1.0.2...v1.0.3
+
 ## v1.0.2 - 2024-11-30
 
 Fixed:
