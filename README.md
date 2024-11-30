@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/ezitisitis/laravel-dark-theme-switcher/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/ezitisitis/laravel-dark-theme-switcher/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/ezitisitis/laravel-dark-theme-switcher.svg?style=flat-square)](https://packagist.org/packages/ezitisitis/laravel-dark-theme-switcher)
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
+This package is made to provide good UX for theme switching and its implementation.
 
 ## Support us
 
