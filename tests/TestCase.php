@@ -2,9 +2,9 @@
 
 namespace EzitisItIs\LaravelDarkThemeSwitcher\Tests;
 
+use EzitisItIs\LaravelDarkThemeSwitcher\LaravelDarkThemeSwitcherServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use EzitisItIs\LaravelDarkThemeSwitcher\LaravelDarkThemeSwitcherServiceProvider;
 
 class TestCase extends Orchestra
 {

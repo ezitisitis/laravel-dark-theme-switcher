@@ -4,7 +4,6 @@ namespace EzitisItIs\LaravelDarkThemeSwitcher;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use EzitisItIs\LaravelDarkThemeSwitcher\Commands\LaravelDarkThemeSwitcherCommand;
 
 class LaravelDarkThemeSwitcherServiceProvider extends PackageServiceProvider
 {
