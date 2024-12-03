@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-dark-theme-switcher` will be documented in this file.
 
+## v1.1.0 - 2024-12-03
+
+Added:
+
+1. Styling
+
+Removed:
+
+1. Testing and Contributing from README
+
+**Full Changelog**: https://github.com/ezitisitis/laravel-dark-theme-switcher/compare/v1.0.3...v1.1.0
+
 ## v1.0.3 - 2024-11-30
 
 Fixed:
