@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/ezitisitis/laravel-dark-theme-switcher/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/ezitisitis/laravel-dark-theme-switcher/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/ezitisitis/laravel-dark-theme-switcher.svg?style=flat-square)](https://packagist.org/packages/ezitisitis/laravel-dark-theme-switcher)
 
-This package is made to provide good UX for theme switching and its implementation.
+This package is made to provide good UX for theme switching and simplicity in implementation.
 
 ## Support us
 
@@ -54,19 +54,9 @@ Optionally, you can publish the views using
 php artisan vendor:publish --tag=dark-theme-switcher-views
 ```
 
-## Testing
-
-```bash
-composer test
-```
-
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
