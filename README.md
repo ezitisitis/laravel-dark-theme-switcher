@@ -60,7 +60,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Credits
 
-- [Marks Bogdanovs](https://www.ezitisitis.com/ezitisitis)
+- [Marks Bogdanovs](https://www.ezitisitis.com/)
 - [All Contributors](../../contributors)
 
 ## License
